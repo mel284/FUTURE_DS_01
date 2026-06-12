@@ -1,4 +1,4 @@
-# E-Commerce Performance Analytics Dashboard
+# Business Sales Performance Analytics
 
 ## Task Objective
 Built as part of a data analytics internship task — analysing 
@@ -19,7 +19,9 @@ deliver actionable insights as if advising a real business.
 - 500,000+ records cleaned and prepared for analysis
 
 ## Dashboard Preview
-![Dashboard](images/dashboard.png)
+E-commerce Dashboard :
+
+![Dashboard](ecommerce.png)
 
 ## Key Metrics
 | Metric | Value |
