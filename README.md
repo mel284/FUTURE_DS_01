@@ -28,7 +28,7 @@ E-commerce Dashboard :
 |--------|-------|
 | Total Revenue | £9.73M |
 | Total Orders | 24,446K |
-| Average Order Value | £397.86 |
+| Average Order Value | £397.86M |
 | Return Rate | 1.94% |
 | Cancellation Rate | 15.69% |
 
